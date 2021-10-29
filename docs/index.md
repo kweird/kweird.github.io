@@ -12,7 +12,7 @@ The course included a series of practicals, the code for each practical is inclu
 
 ## Instructions
 
-Download the repository from GitHub and run with python. Select run from the Run menu.
+Download the repository from GitHub **[here](https://https://github.com/kweird/githubintro/)** and run with python. Select run from the Run menu.
 
 ## Files
 

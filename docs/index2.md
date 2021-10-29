@@ -1,7 +1,3 @@
----
-title: Agent Based Modelling Assessment 1 GitHub repository
----
-
 # Overview
 
 **[Agent Based Modelling Assessment 1 GitHub repository](https://https://github.com/kweird/githubintro/)**
